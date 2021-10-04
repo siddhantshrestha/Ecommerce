@@ -1,0 +1,45 @@
+main {
+  min-height: 75vh;
+}
+
+#lin {
+  margin-left: auto;
+}
+
+i {
+  padding: 0px 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#rate>i {
+  padding: 0px;
+  margin: 0px;
+}
+
+#rate {
+  margin-right: 5px;
+  font-size: 13px;
+}
+
+h3 {
+  padding: 1rem 0 !important;
+}
+h1{
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+h3{
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+.Rating {
+  margin-top: 1rem !important;
+}
+
+button{
+  padding:auto;
+}
